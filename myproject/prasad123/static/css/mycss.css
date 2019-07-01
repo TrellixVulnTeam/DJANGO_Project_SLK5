@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: red
+}
+
+h2{
+    text-align: center;
+    color: slateblue
+}
+h3{
+    color:greenyellow;
+    text-align: center
+}
+h4,h5,h6{
+    color: forestgreen;
+    text-align: center
+}
+.img{
+    text-align: center
+}
+p{
+    color: steelblue;
+    text-align: center
+}
+
+body{
+    background-color: black
+}
